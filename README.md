@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on programming projects which involve Web Development and/or Machine learning.
 - 📫 You can reach out to me at https://www.linkedin.com/in/aditya-karki-2977821ab/
 
-![Profile views](https://gpvc.arturio.dev/KarkiAdit) <img src="https://img.shields.io/github/followers/KarkiAdit?label=Follow" style=" float:left, margin-right:10px" />
-
+![Profile views](https://gpvc.arturio.dev/KarkiAdit) 
 ---
 
 ### Preferences
