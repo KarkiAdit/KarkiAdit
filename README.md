@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Aditya Karki from Nepal👋
 
-- 👀 I’m a techie, interested in the field of Data Science. I have programming experience in Web Development and designing, where I have worked on freelance, personal, and organizational projects.
+- 👀 I’m a techie, interested in the field of Data Science. I have programming experience in Web Development and designing, where I have worked on personal and organizational projects.
 - 🌱 I’m currently learning React and also exploring the implementation of AI.
 - 💞️ I’m looking to collaborate on programming projects which involve Web Development and/or Machine learning.
 - 📫 You can reach out to me at https://www.linkedin.com/in/aditya-karki-2977821ab/
