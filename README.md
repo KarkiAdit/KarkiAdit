@@ -1,7 +1,5 @@
-<h2 align="center">About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
-
-<p align="center">Hi there! I'm <b>Aditya Karki</b>.</p>
-I’m deeply interested in Machine Learning, iOS Development, and System Design. I enjoy hands-on projects that blend creativity with technical depth. I enjoy connecting the dots:
+<p align="center">Hi there! I'm <b>Aditya Karki </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></p>
+I’m deeply interested in Machine Learning, iOS Development, and System Design. I enjoy hands-on projects that blend creativity with technical depth. In most instances, I like  connecting the dots:
     <h5 align="center">☕ Proactive Mindset 🧘‍♂️ Meditation  🏃‍♂️ Marathon  💡 Leadership</h5>
 
 <h2 align="center">Technology Stack <img src="./images/laptop.gif" width="30"></h2>
