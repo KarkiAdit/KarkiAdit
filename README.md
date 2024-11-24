@@ -6,20 +6,21 @@ I’m deeply interested in Machine Learning, iOS Development, and System Design.
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go"/>
+  <img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift"/>
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-orange?style=flat-square&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/>
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma"/>
 </p>
 
